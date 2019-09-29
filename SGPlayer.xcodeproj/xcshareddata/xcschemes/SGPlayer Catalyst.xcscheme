@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1010"
+   LastUpgradeVersion = "1100"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9CEFA6D51E7122BF00835CAB"
+               BlueprintIdentifier = "B0198738231AAB3900EC1C47"
                BuildableName = "SGPlayer.framework"
-               BlueprintName = "SGPlayer iOS"
+               BlueprintName = "SGPlayer Catalyst"
                ReferencedContainer = "container:SGPlayer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -39,18 +39,7 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      enableGPUFrameCaptureMode = "3"
-      enableGPUValidationMode = "1"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9CEFA6D51E7122BF00835CAB"
-            BuildableName = "SGPlayer.framework"
-            BlueprintName = "SGPlayer iOS"
-            ReferencedContainer = "container:SGPlayer.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -61,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9CEFA6D51E7122BF00835CAB"
+            BlueprintIdentifier = "B0198738231AAB3900EC1C47"
             BuildableName = "SGPlayer.framework"
-            BlueprintName = "SGPlayer iOS"
+            BlueprintName = "SGPlayer Catalyst"
             ReferencedContainer = "container:SGPlayer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
